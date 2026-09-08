@@ -1,0 +1,16 @@
+{
+  "include": [
+    "."
+  ],
+  "extraPaths": [
+    ".",
+    "C:\\Users\\Lenovo\\AppData\\Roaming\\Python\\Python313\\site-packages",
+    "C:\\Python313\\Lib\\site-packages"
+  ],
+  "executionEnvironments": [
+    {
+      "root": "."
+    }
+  ],
+  "reportMissingTypeStubs": "none"
+}
